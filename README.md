@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ProRamen
+- 👀 I’m interested in automation, machine learning, and AI
+- 🌱 I’m currently learning JavaScript, Python, and SQL
